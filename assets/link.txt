@@ -1,1 +1,3 @@
-
+licenca: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+autor: https://commons.wikimedia.org/wiki/User:Joaopaulo1511
+Changes were made to the original material.
